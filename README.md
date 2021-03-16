@@ -1,2 +1,4 @@
 # FaceOff
-King of the hill game using socket.io
+King of the Hill game using socket.io
+
+WIP
